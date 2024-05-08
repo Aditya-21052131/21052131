@@ -68,7 +68,7 @@ The application provides a user-friendly interface for product exploration.
 
     *Integrate a random image placeholder library for product listings.
 
-    Contribution:
+  Contribution:
 
     Feel free to contribute to this project by improving the functionalities,UI or 
     adding new features.
